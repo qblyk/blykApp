@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+
+//Ö÷º¯Êý
 public class MainActivity extends Activity {
 
 	private Button btnStartAty1;
